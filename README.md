@@ -149,8 +149,8 @@ You'll first need to set up developer assets and obtain credentials from the Met
   
 - There are two types of WhatsApp profiles you can create:
   
-  1. **Personal**: Opens a direct communication channel between the sender and the receiver.
-  2. **Support**: Opens a group channel between the sender and receiver, allowing the admin to add or remove other members from the channel.
+  1. **Personal** 👤: Opens a direct communication channel between the sender and the receiver.
+  2. **Support** 👥: Opens a group channel between the sender and receiver, allowing the admin to add or remove other members from the channel.
 
 - After saving the WhatsApp profile, a WhatsApp template will be automatically created.
 
