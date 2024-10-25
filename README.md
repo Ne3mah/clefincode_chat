@@ -137,11 +137,11 @@ You'll first need to set up developer assets and obtain credentials from the Met
 
 ### 1. Enter WhatsApp Credentials
 
-<img width="300" src="screenshots/web/Whatsapp_credentials.png">
+<img width="1402" src="screenshots/web/Whatsapp_credentials.png">
 
 ### 2. Set Up the WhatsApp Profile
 
-<img width="300" src="screenshots/web/whatsapp_profile.png">
+<img width="1402" src="screenshots/web/whatsapp_profile.png">
 
 **Important Tips:**
 
@@ -154,12 +154,12 @@ You'll first need to set up developer assets and obtain credentials from the Met
 
 - After saving the WhatsApp profile, a WhatsApp template will be automatically created.
 
-<img width="300" src="screenshots/web/save_whatsapp_profile.png">
-<img width="300" src="screenshots/web/whatsapp_template.png">
+<img width="1402" src="screenshots/web/save_whatsapp_profile.png">
+<img width="1402" src="screenshots/web/whatsapp_template.png">
 
-Now, you can begin sending and receiving WhatsApp messages directly using our chat app within your ERP system🎉
+🎉Now, you can begin sending and receiving WhatsApp messages directly using our chat app within your ERP system🎉
 
-<img width="300" src="screenshots/web/send_message.png">  
+<img width="1402" src="screenshots/web/send_message.png">  
 
 ## Reporting Bugs
 
