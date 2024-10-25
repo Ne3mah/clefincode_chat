@@ -63,6 +63,7 @@ Dedicated Support: Our support section within the app is designed to assist you 
 
 - 🔄 **User / Doctype Mentions**: Flexibly join and contribute to conversations and topic-integrated discussions.
 - 🌟 **Guest Messaging**: Enhance customer service with a website support portal.
+- 📲 **WhatsApp Integration**: Manage WhatsApp conversations directly your ERP, centralizing and organizing interactions for invoices, projects, and day-to-day communications.
 
 ## 🌍 Access Anywhere, Anytime
 
